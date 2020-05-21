@@ -1,0 +1,970 @@
+2020-05-05 20:45:27,577: DEBUG : wt: WomenMenubar display result:True
+2020-05-05 20:47:17,146: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 09:08:32,249: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 09:11:51,481: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 17:01:00,293: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 17:24:08,275: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 17:28:15,136: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 17:36:54,208: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 17:53:37,148: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:06:01,652: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:09:52,549: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:10:43,165: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:12:35,871: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:13:55,174: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:15:22,609: DEBUG : wt: WomenMenubar display result:True
+2020-05-06 20:17:43,353: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 12:59:45,135: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 13:01:54,371: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 13:04:49,027: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 13:05:39,755: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 19:12:43,295: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 19:13:47,567: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 19:13:52,735: DEBUG : wt: Tops option display result:True
+2020-05-10 19:23:44,347: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 19:23:49,495: DEBUG : wt: Tops option display result:True
+2020-05-10 19:25:18,255: DEBUG : wt: WomenMenubar display result:True
+2020-05-10 19:25:23,353: DEBUG : wt: Tops option display result:True
+2020-05-11 20:59:04,631: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 20:59:09,865: DEBUG : wt: Tops option display result:True
+2020-05-11 21:06:41,675: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:06:46,806: DEBUG : wt: Tops option display result:True
+2020-05-11 21:11:04,212: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:11:09,327: DEBUG : wt: Tops option display result:True
+2020-05-11 21:13:31,135: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:13:36,258: DEBUG : wt: Tops option display result:True
+2020-05-11 21:14:59,869: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:15:05,077: DEBUG : wt: Tops option display result:True
+2020-05-11 21:34:07,523: DEBUG : wt: Catalog display result:CATALOG
+2020-05-11 21:34:21,941: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:36:11,369: DEBUG : wt: Catalog display result:CATALOG
+2020-05-11 21:36:12,678: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:36:17,814: DEBUG : wt: Tops option display result:True
+2020-05-11 21:36:56,928: DEBUG : wt: Catalog display result:CATALOG
+2020-05-11 21:36:58,199: DEBUG : wt: WomenMenubar display result:True
+2020-05-11 21:37:03,323: DEBUG : wt: Tops option display result:True
+2020-05-12 18:08:51,673: DEBUG : wt: Catalog display result:CATALOG
+2020-05-12 18:08:53,301: DEBUG : wt: WomenMenubar display result:True
+2020-05-12 18:08:58,484: DEBUG : wt: Tops option display result:True
+2020-05-12 18:11:13,124: DEBUG : wt: Catalog display result:CATALOG
+2020-05-12 18:11:23,357: DEBUG : wt: WomenMenubar display result:True
+2020-05-12 18:11:34,345: DEBUG : wt: Tops option display result:True
+2020-05-12 18:22:52,892: DEBUG : wt: Catalog display result:CATALOG
+2020-05-12 18:22:54,939: DEBUG : wt: WomenMenubar display result:True
+2020-05-12 18:23:00,122: DEBUG : wt: Tops option display result:True
+2020-05-12 18:30:45,898: DEBUG : wt: Catalog display result:CATALOG
+2020-05-12 18:30:47,968: DEBUG : wt: WomenMenubar display result:True
+2020-05-12 18:30:53,104: DEBUG : wt: Tops option display result:True
+2020-05-12 18:37:44,061: DEBUG : wt: Catalog display result:CATALOG
+2020-05-12 18:37:45,529: DEBUG : wt: WomenMenubar display result:True
+2020-05-12 18:37:50,731: DEBUG : wt: Tops option display result:True
+2020-05-12 18:44:09,102: INFO : wt: Checking the small size shirt checkbox
+2020-05-12 18:44:09,233: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-12 18:44:09,298: INFO : wt: Catalog display result:CATALOG
+2020-05-12 18:44:10,743: INFO : wt: WomenMenubar display result:True
+2020-05-12 18:44:15,957: INFO : wt: Tops option display result:True
+2020-05-12 18:44:15,968: INFO : test_site: Test Execution completed
+2020-05-12 18:49:49,418: INFO : wt: Checking the small size shirt checkbox
+2020-05-12 18:49:49,575: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-12 18:49:49,648: INFO : wt: Catalog display result:CATALOG
+2020-05-12 18:49:51,448: INFO : wt: WomenMenubar display result:True
+2020-05-12 18:49:56,671: INFO : wt: Tops option display result:True
+2020-05-12 18:49:56,688: INFO : test_site: Test Execution completed
+2020-05-13 17:24:49,783: INFO : wt: Checking the small size shirt checkbox
+2020-05-13 17:24:54,919: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-13 17:26:05,328: INFO : wt: Executing next set of statements
+2020-05-13 17:26:20,458: INFO : wt: Executing next set of statements
+2020-05-13 17:26:33,956: INFO : wt: Executing next set of statements
+2020-05-13 17:26:38,494: INFO : wt: Executing next set of statements
+2020-05-13 17:26:54,815: INFO : wt: Executing next set of statements
+2020-05-13 17:26:57,665: INFO : wt: Executing next set of statements
+2020-05-13 17:26:59,999: INFO : wt: Executing next set of statements
+2020-05-13 17:27:14,213: INFO : wt: Catalog display result:CATALOG
+2020-05-13 17:27:22,658: INFO : wt: WomenMenubar display result:True
+2020-05-13 17:27:33,494: INFO : wt: Tops option display result:True
+2020-05-13 17:27:36,407: INFO : test_site: Test Execution completed
+2020-05-13 17:35:51,502: INFO : wt: Checking the small size shirt checkbox
+2020-05-13 17:35:51,592: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-13 17:36:00,734: INFO : wt: Executing next set of statements
+2020-05-13 17:40:33,962: INFO : wt: Checking the small size shirt checkbox
+2020-05-13 17:40:35,739: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-13 17:44:04,951: INFO : wt: Checking the small size shirt checkbox
+2020-05-13 17:44:06,490: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-13 17:44:06,574: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-13 17:44:06,650: INFO : wt: Catalog display result:CATALOG
+2020-05-13 17:44:07,925: INFO : wt: WomenMenubar display result:True
+2020-05-13 17:44:13,142: INFO : wt: Tops option display result:True
+2020-05-13 17:44:13,158: INFO : test_site: Test Execution completed
+2020-05-15 21:22:11,284: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 21:22:11,480: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 21:22:11,548: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 21:22:11,565: INFO : wt: Catalog display result:CATALOG
+2020-05-15 21:24:07,469: INFO : wt: WomenMenubar display result:True
+2020-05-15 21:24:20,245: INFO : wt: Tops option display result:True
+2020-05-15 21:24:20,278: INFO : test_site: Test Execution completed
+2020-05-15 21:29:20,097: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 21:29:20,321: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 21:29:20,367: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 21:29:20,379: INFO : wt: Catalog display result:CATALOG
+2020-05-15 21:29:22,144: INFO : wt: WomenMenubar display result:True
+2020-05-15 21:29:27,315: INFO : wt: Tops option display result:True
+2020-05-15 21:29:27,335: INFO : test_site: Test Execution completed
+2020-05-15 21:52:24,705: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 21:52:24,994: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 21:52:25,061: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 21:52:25,076: INFO : wt: Catalog display result:CATALOG
+2020-05-15 21:52:26,993: INFO : wt: WomenMenubar display result:True
+2020-05-15 21:52:32,221: INFO : wt: Tops option display result:True
+2020-05-15 21:52:32,243: INFO : test_site: Test Execution completed
+2020-05-15 21:55:44,190: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 21:55:44,473: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 21:55:44,524: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 21:55:44,536: INFO : wt: Catalog display result:CATALOG
+2020-05-15 21:55:46,068: INFO : wt: WomenMenubar display result:True
+2020-05-15 21:55:51,280: INFO : wt: Tops option display result:True
+2020-05-15 21:55:51,296: INFO : test_site: Test Execution completed
+2020-05-15 22:03:32,273: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:03:32,609: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:03:32,667: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:03:32,682: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:03:34,487: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:03:39,648: INFO : wt: Tops option display result:True
+2020-05-15 22:03:39,667: INFO : test_site: Test Execution completed
+2020-05-15 22:09:51,330: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:09:51,625: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:09:51,683: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:09:51,699: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:09:53,360: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:09:58,516: INFO : wt: Tops option display result:True
+2020-05-15 22:09:58,533: INFO : test_site: Test Execution completed
+2020-05-15 22:18:48,915: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:18:49,163: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:18:49,214: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:18:49,226: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:18:50,905: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:18:56,139: INFO : wt: Tops option display result:True
+2020-05-15 22:18:56,169: INFO : test_site: Test Execution completed
+2020-05-15 22:22:56,099: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:22:56,269: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:22:56,320: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:22:56,336: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:22:58,323: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:23:03,508: INFO : wt: Tops option display result:True
+2020-05-15 22:23:03,531: INFO : test_site: Test Execution completed
+2020-05-15 22:38:58,567: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:38:58,708: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:38:58,755: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:38:58,769: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:39:00,313: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:39:05,531: INFO : wt: Tops option display result:True
+2020-05-15 22:39:05,551: INFO : test_site: Test Execution completed
+2020-05-15 22:42:38,592: INFO : wt: Checking the small size shirt checkbox
+2020-05-15 22:42:38,772: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-15 22:42:38,831: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-15 22:42:38,849: INFO : wt: Catalog display result:CATALOG
+2020-05-15 22:42:40,690: INFO : wt: WomenMenubar display result:True
+2020-05-15 22:42:45,840: INFO : wt: Tops option display result:True
+2020-05-15 22:42:45,866: INFO : test_site: Test Execution completed
+2020-05-16 13:46:07,805: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 13:46:10,821: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 13:46:19,667: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 13:46:20,718: INFO : wt: Catalog display result:CATALOG
+2020-05-16 13:46:36,807: INFO : wt: WomenMenubar display result:True
+2020-05-16 13:46:42,111: INFO : wt: Tops option display result:True
+2020-05-16 13:46:42,127: INFO : test_site: Test Execution completed
+2020-05-16 14:00:30,159: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 14:00:31,378: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 14:00:31,578: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 14:00:31,604: INFO : wt: Catalog display result:CATALOG
+2020-05-16 14:00:33,528: INFO : wt: WomenMenubar display result:True
+2020-05-16 14:00:39,082: INFO : wt: Tops option display result:True
+2020-05-16 14:00:39,101: INFO : test_site: Test Execution completed
+2020-05-16 14:05:33,601: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 14:05:34,004: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 14:05:34,059: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 14:05:34,068: INFO : wt: Catalog display result:CATALOG
+2020-05-16 14:05:36,061: INFO : wt: WomenMenubar display result:True
+2020-05-16 14:05:41,511: INFO : wt: Tops option display result:True
+2020-05-16 14:05:41,545: INFO : test_site: Test Execution completed
+2020-05-16 14:06:13,212: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 14:06:13,501: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 14:06:13,550: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 14:06:13,563: INFO : wt: Catalog display result:CATALOG
+2020-05-16 14:06:15,616: INFO : wt: WomenMenubar display result:True
+2020-05-16 14:06:20,901: INFO : wt: Tops option display result:True
+2020-05-16 14:06:20,923: INFO : test_site: Test Execution completed
+2020-05-16 14:06:54,605: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 14:06:54,864: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 14:06:54,897: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 14:06:54,909: INFO : wt: Catalog display result:CATALOG
+2020-05-16 14:06:56,891: INFO : wt: WomenMenubar display result:True
+2020-05-16 14:07:02,158: INFO : wt: Tops option display result:True
+2020-05-16 14:07:02,178: INFO : test_site: Test Execution completed
+2020-05-16 14:14:22,673: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 14:14:23,265: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 14:14:23,724: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 14:14:23,737: INFO : wt: Catalog display result:CATALOG
+2020-05-16 14:14:26,165: INFO : wt: WomenMenubar display result:True
+2020-05-16 14:14:31,555: INFO : wt: Tops option display result:True
+2020-05-16 14:14:31,577: INFO : test_site: Test Execution completed
+2020-05-16 15:22:14,143: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 15:22:14,422: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 15:22:14,492: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 15:22:14,527: INFO : wt: Catalog display result:CATALOG
+2020-05-16 15:22:16,427: INFO : wt: WomenMenubar display result:True
+2020-05-16 15:22:21,727: INFO : wt: Tops option display result:True
+2020-05-16 15:22:21,742: INFO : test_womentab: Test Execution completed
+2020-05-16 21:11:18,392: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:11:18,872: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:11:18,934: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:11:18,944: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:11:20,664: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:11:25,954: INFO : wt: Tops option display result:True
+2020-05-16 21:11:25,980: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:12:36,496: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:12:36,756: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:12:36,817: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:12:36,846: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:12:39,075: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:12:44,357: INFO : wt: Tops option display result:True
+2020-05-16 21:12:44,401: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:40:05,359: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:40:05,729: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:40:05,802: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:40:05,818: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:40:07,155: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:40:12,261: INFO : wt: Tops option display result:True
+2020-05-16 21:40:12,261: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:44:23,821: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:44:25,605: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:44:29,428: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:44:30,174: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:44:43,514: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:45:06,425: INFO : wt: Tops option display result:True
+2020-05-16 21:45:10,594: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:47:30,784: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:47:31,000: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:47:31,053: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:47:31,066: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:47:32,461: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:47:37,603: INFO : wt: Tops option display result:True
+2020-05-16 21:47:37,619: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:49:49,923: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:49:50,070: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:49:50,110: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:49:50,112: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:49:51,535: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:49:56,689: INFO : wt: Tops option display result:True
+2020-05-16 21:49:56,708: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:51:05,174: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:51:05,408: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:51:05,497: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:51:05,509: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:51:06,940: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:51:12,057: INFO : wt: Tops option display result:True
+2020-05-16 21:51:12,072: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:54:16,229: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 21:54:16,471: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 21:54:16,521: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 21:54:16,535: INFO : wt: Catalog display result:CATALOG
+2020-05-16 21:54:18,227: INFO : wt: WomenMenubar display result:True
+2020-05-16 21:54:23,395: INFO : wt: Tops option display result:True
+2020-05-16 21:54:23,411: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 21:54:25,463: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-16 22:00:40,038: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:00:40,580: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:00:40,620: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:00:40,630: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:00:42,088: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:00:47,185: INFO : wt: Tops option display result:True
+2020-05-16 22:00:47,199: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:02:15,346: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:02:15,456: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:02:15,489: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:02:15,498: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:02:16,880: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:02:21,981: INFO : wt: Tops option display result:True
+2020-05-16 22:02:21,997: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:05:47,224: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:05:47,538: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:05:47,585: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:05:47,600: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:05:49,230: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:06:05,369: INFO : wt: Tops option display result:True
+2020-05-16 22:06:36,312: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:09:26,782: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:09:27,016: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:09:27,055: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:09:27,069: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:09:28,438: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:09:38,185: INFO : wt: Tops option display result:True
+2020-05-16 22:09:50,555: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:15:18,755: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:15:18,967: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:15:19,000: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:15:19,009: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:15:20,349: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:15:30,574: INFO : wt: Tops option display result:True
+2020-05-16 22:15:33,446: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:17:09,219: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:17:09,339: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:17:09,386: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:17:09,396: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:17:10,723: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:17:18,811: INFO : wt: Tops option display result:True
+2020-05-16 22:17:20,976: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:21:55,008: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:21:55,241: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:21:55,280: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:21:55,291: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:21:56,659: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:22:05,466: INFO : wt: Tops option display result:True
+2020-05-16 22:22:15,227: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:23:00,572: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:23:00,756: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:23:00,805: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:23:00,818: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:23:02,226: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:23:09,145: INFO : wt: Tops option display result:True
+2020-05-16 22:23:24,319: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:28:03,220: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:28:03,363: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:28:03,396: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:28:03,407: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:28:04,735: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:28:09,904: INFO : wt: Tops option display result:True
+2020-05-16 22:28:09,920: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:28:15,041: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-16 22:29:28,480: INFO : wt: Checking the small size shirt checkbox
+2020-05-16 22:29:28,653: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-16 22:29:28,694: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-16 22:29:28,706: INFO : wt: Catalog display result:CATALOG
+2020-05-16 22:29:30,967: INFO : wt: WomenMenubar display result:True
+2020-05-16 22:29:36,115: INFO : wt: Tops option display result:True
+2020-05-16 22:29:36,146: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-16 22:29:51,832: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 15:45:28,932: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 15:45:29,117: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 15:45:29,160: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 15:45:29,172: INFO : wt: Catalog display result:CATALOG
+2020-05-17 15:45:30,617: INFO : wt: WomenMenubar display result:True
+2020-05-17 15:45:35,782: INFO : wt: Tops option display result:True
+2020-05-17 15:45:35,796: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 15:45:37,052: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 15:59:36,013: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 15:59:36,405: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 15:59:36,448: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 15:59:36,457: INFO : wt: Catalog display result:CATALOG
+2020-05-17 15:59:39,541: INFO : wt: WomenMenubar display result:True
+2020-05-17 15:59:44,656: INFO : wt: Tops option display result:True
+2020-05-17 15:59:44,678: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 15:59:46,831: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 16:02:47,006: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:02:47,215: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:02:47,253: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:02:47,264: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:02:49,174: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:02:54,327: INFO : wt: Tops option display result:True
+2020-05-17 16:02:54,335: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:05:19,416: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:05:19,593: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:05:19,629: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:05:19,638: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:05:23,316: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:05:28,425: INFO : wt: Tops option display result:True
+2020-05-17 16:05:28,443: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:06:46,308: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:06:46,520: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:06:46,553: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:06:46,566: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:06:48,156: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:06:53,275: INFO : wt: Tops option display result:True
+2020-05-17 16:06:53,289: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:07:40,006: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:07:40,268: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:07:40,308: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:07:40,318: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:07:42,456: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:07:47,596: INFO : wt: Tops option display result:True
+2020-05-17 16:07:47,617: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:07:49,541: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 16:08:44,170: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:08:44,250: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:08:44,294: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:08:44,307: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:08:45,902: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:08:51,014: INFO : wt: Tops option display result:True
+2020-05-17 16:08:51,019: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:08:52,560: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 16:11:11,709: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:11:11,936: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:11:11,978: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:11:11,988: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:11:13,551: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:11:18,671: INFO : wt: Tops option display result:True
+2020-05-17 16:11:28,238: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:13:04,114: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:13:04,245: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:13:04,295: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:13:04,305: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:13:06,077: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:13:11,197: INFO : wt: Tops option display result:True
+2020-05-17 16:13:11,214: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:14:28,505: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:14:28,583: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:14:28,616: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:14:28,628: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:14:30,317: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:14:35,451: INFO : wt: Tops option display result:True
+2020-05-17 16:14:35,452: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:14:37,495: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 16:16:11,168: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 16:16:11,317: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 16:16:11,361: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 16:16:11,374: INFO : wt: Catalog display result:CATALOG
+2020-05-17 16:16:12,678: INFO : wt: WomenMenubar display result:True
+2020-05-17 16:16:17,802: INFO : wt: Tops option display result:True
+2020-05-17 16:16:17,822: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 16:16:19,339: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 17:45:08,704: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 17:45:08,868: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 17:45:08,901: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 17:45:08,909: INFO : wt: Catalog display result:CATALOG
+2020-05-17 17:45:10,689: INFO : wt: WomenMenubar display result:True
+2020-05-17 17:45:15,809: INFO : wt: Tops option display result:True
+2020-05-17 17:45:15,819: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 17:45:17,594: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 17:46:17,526: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 17:46:17,692: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 17:46:17,736: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 17:46:17,748: INFO : wt: Catalog display result:CATALOG
+2020-05-17 17:46:19,075: INFO : wt: WomenMenubar display result:True
+2020-05-17 17:46:24,207: INFO : wt: Tops option display result:True
+2020-05-17 17:46:24,224: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 17:47:23,703: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 17:47:23,937: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 17:47:23,976: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 17:47:23,986: INFO : wt: Catalog display result:CATALOG
+2020-05-17 17:47:25,306: INFO : wt: WomenMenubar display result:True
+2020-05-17 17:47:30,443: INFO : wt: Tops option display result:True
+2020-05-17 17:47:30,459: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 17:48:27,993: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 17:48:28,207: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 17:48:28,312: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 17:48:28,326: INFO : wt: Catalog display result:CATALOG
+2020-05-17 17:48:30,118: INFO : wt: WomenMenubar display result:True
+2020-05-17 17:48:35,231: INFO : wt: Tops option display result:True
+2020-05-17 17:48:35,247: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 20:26:43,538: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 20:26:43,740: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 20:26:43,789: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 20:26:43,800: INFO : wt: Catalog display result:CATALOG
+2020-05-17 20:26:45,560: INFO : wt: WomenMenubar display result:True
+2020-05-17 20:26:50,711: INFO : wt: Tops option display result:True
+2020-05-17 20:26:57,628: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 20:30:41,966: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 20:30:42,180: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 20:30:42,221: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 20:30:42,233: INFO : wt: Catalog display result:CATALOG
+2020-05-17 20:30:43,625: INFO : wt: WomenMenubar display result:True
+2020-05-17 20:30:48,744: INFO : wt: Tops option display result:True
+2020-05-17 20:30:52,668: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 20:36:42,461: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 20:36:42,677: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 20:36:42,714: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 20:36:42,726: INFO : wt: Catalog display result:CATALOG
+2020-05-17 20:36:44,080: INFO : wt: WomenMenubar display result:True
+2020-05-17 20:36:49,190: INFO : wt: Tops option display result:True
+2020-05-17 20:36:52,391: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 20:39:35,729: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 20:39:35,958: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 20:39:35,996: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 20:39:36,011: INFO : wt: Catalog display result:CATALOG
+2020-05-17 20:39:37,424: INFO : wt: WomenMenubar display result:True
+2020-05-17 20:39:42,579: INFO : wt: Tops option display result:True
+2020-05-17 20:39:55,812: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 20:43:41,770: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 20:43:42,026: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 20:43:42,057: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 20:43:42,068: INFO : wt: Catalog display result:CATALOG
+2020-05-17 20:43:43,867: INFO : wt: WomenMenubar display result:True
+2020-05-17 20:43:49,003: INFO : wt: Tops option display result:True
+2020-05-17 20:43:49,021: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:03:27,474: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:03:27,693: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:03:27,738: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:03:27,748: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:03:29,163: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:03:34,355: INFO : wt: Tops option display result:True
+2020-05-17 21:03:34,373: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:03:35,639: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 21:12:09,553: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:12:09,793: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:12:09,839: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:12:09,848: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:12:11,194: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:12:16,310: INFO : wt: Tops option display result:True
+2020-05-17 21:12:16,332: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:14:03,629: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:14:03,715: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:14:03,757: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:14:03,767: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:14:05,457: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:14:10,572: INFO : wt: Tops option display result:True
+2020-05-17 21:14:10,586: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:15:13,572: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:15:13,764: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:15:13,797: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:15:13,808: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:15:15,144: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:15:20,257: INFO : wt: Tops option display result:True
+2020-05-17 21:15:20,277: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:15:22,102: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 21:19:29,399: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:19:29,509: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:19:29,542: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:19:29,551: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:19:30,957: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:19:36,076: INFO : wt: Tops option display result:True
+2020-05-17 21:19:36,084: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:19:37,422: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 21:20:18,151: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:20:18,409: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:20:18,450: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:20:18,459: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:20:19,768: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:20:24,881: INFO : wt: Tops option display result:True
+2020-05-17 21:20:24,896: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:21:16,287: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-17 21:22:07,782: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:22:07,980: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:22:08,019: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:22:08,032: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:22:09,317: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:22:14,450: INFO : wt: Tops option display result:True
+2020-05-17 21:22:14,451: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:23:34,200: INFO : wt: Checking the small size shirt checkbox
+2020-05-17 21:23:34,458: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-17 21:23:34,502: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-17 21:23:34,512: INFO : wt: Catalog display result:CATALOG
+2020-05-17 21:23:35,858: INFO : wt: WomenMenubar display result:True
+2020-05-17 21:23:40,987: INFO : wt: Tops option display result:True
+2020-05-17 21:23:41,004: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-17 21:24:32,571: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 11:25:17,659: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 11:25:17,865: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 11:25:17,914: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 11:25:17,928: INFO : wt: Catalog display result:CATALOG
+2020-05-18 11:25:19,293: INFO : wt: WomenMenubar display result:True
+2020-05-18 11:25:24,472: INFO : wt: Tops option display result:True
+2020-05-18 11:25:24,495: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 11:25:27,483: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 11:32:22,926: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 11:32:23,077: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 11:32:23,128: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 11:32:23,139: INFO : wt: Catalog display result:CATALOG
+2020-05-18 11:32:24,539: INFO : wt: WomenMenubar display result:True
+2020-05-18 11:32:29,643: INFO : wt: Tops option display result:True
+2020-05-18 11:32:29,661: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 11:33:12,015: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 11:33:12,232: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 11:33:12,269: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 11:33:12,283: INFO : wt: Catalog display result:CATALOG
+2020-05-18 11:33:14,181: INFO : wt: WomenMenubar display result:True
+2020-05-18 11:33:19,300: INFO : wt: Tops option display result:True
+2020-05-18 11:33:19,302: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 11:34:34,283: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 11:34:34,369: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 11:34:34,404: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 11:34:34,416: INFO : wt: Catalog display result:CATALOG
+2020-05-18 11:34:35,965: INFO : wt: WomenMenubar display result:True
+2020-05-18 11:34:41,092: INFO : wt: Tops option display result:True
+2020-05-18 11:34:44,572: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 11:37:07,749: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 11:37:07,968: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 11:37:08,008: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 11:37:08,022: INFO : wt: Catalog display result:CATALOG
+2020-05-18 11:37:10,244: INFO : wt: WomenMenubar display result:True
+2020-05-18 11:37:15,364: INFO : wt: Tops option display result:True
+2020-05-18 11:37:18,768: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 13:48:15,007: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 13:48:15,088: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 13:48:15,124: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 13:48:15,134: INFO : wt: Catalog display result:CATALOG
+2020-05-18 13:48:16,542: INFO : wt: WomenMenubar display result:True
+2020-05-18 13:48:21,648: INFO : wt: Tops option display result:True
+2020-05-18 13:48:21,660: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:07:47,940: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:07:48,084: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:07:48,118: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:07:48,129: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:07:49,605: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:07:54,715: INFO : wt: Tops option display result:True
+2020-05-18 19:07:54,749: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:09:24,547: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:09:24,690: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:09:24,736: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:09:24,747: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:09:26,315: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:09:31,425: INFO : wt: Tops option display result:True
+2020-05-18 19:09:31,451: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:10:32,295: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:10:32,423: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:10:32,471: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:10:32,482: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:10:34,763: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:10:39,891: INFO : wt: Tops option display result:True
+2020-05-18 19:10:39,910: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:12:24,678: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:12:24,812: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:12:24,854: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:12:24,863: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:12:26,130: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:12:31,281: INFO : wt: Tops option display result:True
+2020-05-18 19:12:31,297: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:14:26,638: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:14:26,867: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:14:26,906: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:14:26,917: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:14:28,361: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:14:33,482: INFO : wt: Tops option display result:True
+2020-05-18 19:14:54,838: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:18:06,435: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:18:06,600: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:18:06,652: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:18:06,665: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:18:08,462: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:18:13,674: INFO : wt: Tops option display result:True
+2020-05-18 19:18:22,276: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:20:42,593: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:20:42,737: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:20:42,780: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:20:42,789: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:20:44,403: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:20:49,526: INFO : wt: Tops option display result:True
+2020-05-18 19:20:49,546: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:25:33,677: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:25:33,972: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:25:34,016: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:25:34,029: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:25:35,555: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:25:40,707: INFO : wt: Tops option display result:True
+2020-05-18 19:25:45,290: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:27:10,701: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:32:44,395: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:32:44,645: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:32:44,688: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:32:44,698: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:32:46,951: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:32:52,054: INFO : wt: Tops option display result:True
+2020-05-18 19:32:52,074: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:34:09,759: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:34:09,924: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:34:09,979: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:34:09,990: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:34:11,471: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:34:16,600: INFO : wt: Tops option display result:True
+2020-05-18 19:34:16,616: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:34:32,009: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:35:13,553: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:35:13,754: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:35:13,792: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:35:13,804: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:35:15,294: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:35:20,401: INFO : wt: Tops option display result:True
+2020-05-18 19:35:20,419: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:35:25,890: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:36:02,916: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:36:03,158: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:36:03,196: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:36:03,207: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:36:04,483: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:36:09,593: INFO : wt: Tops option display result:True
+2020-05-18 19:36:09,615: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:36:45,445: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:36:45,542: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:36:45,583: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:36:45,592: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:36:46,991: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:36:52,180: INFO : wt: Tops option display result:True
+2020-05-18 19:36:52,181: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:36:58,462: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:47:54,659: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:47:54,764: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:47:54,803: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:47:54,815: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:47:56,466: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:48:01,706: INFO : wt: Tops option display result:True
+2020-05-18 19:48:01,752: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:48:07,036: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:49:35,324: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:49:35,591: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:49:35,645: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:49:35,658: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:49:37,673: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:49:42,977: INFO : wt: Tops option display result:True
+2020-05-18 19:49:43,001: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:50:33,377: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:50:33,624: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:50:33,691: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:50:33,707: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:50:35,637: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:50:40,804: INFO : wt: Tops option display result:True
+2020-05-18 19:50:40,820: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:50:46,671: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:57:07,110: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:57:07,213: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:57:07,252: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:57:07,264: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:57:09,026: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:57:14,171: INFO : wt: Tops option display result:True
+2020-05-18 19:57:14,187: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:57:15,545: INFO : drtab: Clicking on the Dresses tab
+2020-05-18 19:57:15,571: INFO : drtab: Dress found on the page
+2020-05-18 19:57:15,571: INFO : drtab: Dress found on the page
+2020-05-18 19:57:15,876: INFO : drtab: Hovering over the dress item
+2020-05-18 19:57:15,876: INFO : drtab: Hovering over the dress item
+2020-05-18 19:57:15,876: INFO : drtab: Hovering over the dress item
+2020-05-18 19:57:16,017: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:57:16,017: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:57:16,017: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:57:16,017: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:57:19,827: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 19:57:19,827: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 19:57:19,827: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 19:57:19,827: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 19:57:19,827: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 19:57:19,849: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 19:59:48,189: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 19:59:48,278: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 19:59:48,330: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 19:59:48,375: INFO : wt: Catalog display result:CATALOG
+2020-05-18 19:59:49,993: INFO : wt: WomenMenubar display result:True
+2020-05-18 19:59:55,177: INFO : wt: Tops option display result:True
+2020-05-18 19:59:55,192: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 19:59:56,364: INFO : drtab: Clicking on the Dresses tab
+2020-05-18 19:59:56,394: INFO : drtab: Dress found on the page
+2020-05-18 19:59:56,394: INFO : drtab: Dress found on the page
+2020-05-18 19:59:56,698: INFO : drtab: Hovering over the dress item
+2020-05-18 19:59:56,698: INFO : drtab: Hovering over the dress item
+2020-05-18 19:59:56,698: INFO : drtab: Hovering over the dress item
+2020-05-18 19:59:56,821: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:59:56,821: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:59:56,821: INFO : drtab: Dress added to shopping cart
+2020-05-18 19:59:56,821: INFO : drtab: Dress added to shopping cart
+2020-05-18 20:00:00,526: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:00:00,526: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:00:00,526: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:00:00,526: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:00:00,526: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:00:00,541: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-18 20:02:10,206: INFO : wt: Checking the small size shirt checkbox
+2020-05-18 20:02:20,713: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-18 20:02:23,298: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-18 20:02:23,930: INFO : wt: Catalog display result:CATALOG
+2020-05-18 20:02:38,529: INFO : wt: WomenMenubar display result:True
+2020-05-18 20:02:43,637: INFO : wt: Tops option display result:True
+2020-05-18 20:02:43,662: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-18 20:02:45,223: INFO : drtab: Clicking on the Dresses tab
+2020-05-18 20:02:45,264: INFO : drtab: Dress found on the page
+2020-05-18 20:02:45,264: INFO : drtab: Dress found on the page
+2020-05-18 20:02:45,580: INFO : drtab: Hovering over the dress item
+2020-05-18 20:02:45,580: INFO : drtab: Hovering over the dress item
+2020-05-18 20:02:45,580: INFO : drtab: Hovering over the dress item
+2020-05-18 20:02:45,740: INFO : drtab: Dress added to shopping cart
+2020-05-18 20:02:45,740: INFO : drtab: Dress added to shopping cart
+2020-05-18 20:02:45,740: INFO : drtab: Dress added to shopping cart
+2020-05-18 20:02:45,740: INFO : drtab: Dress added to shopping cart
+2020-05-18 20:02:49,909: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:02:49,909: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:02:49,909: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:02:49,909: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:02:49,909: INFO : drtab: Dress checked out from shopping cart
+2020-05-18 20:02:49,928: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 20:39:30,796: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 20:39:30,955: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 20:39:31,000: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 20:39:31,015: INFO : wt: Catalog display result:CATALOG
+2020-05-19 20:39:32,531: INFO : wt: WomenMenubar display result:True
+2020-05-19 20:39:37,644: INFO : wt: Tops option display result:True
+2020-05-19 20:39:37,644: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 20:39:38,946: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 20:39:38,979: INFO : drtab: Dress found on the page
+2020-05-19 20:39:38,979: INFO : drtab: Dress found on the page
+2020-05-19 20:39:39,276: INFO : drtab: Hovering over the dress item
+2020-05-19 20:39:39,276: INFO : drtab: Hovering over the dress item
+2020-05-19 20:39:39,276: INFO : drtab: Hovering over the dress item
+2020-05-19 20:39:39,400: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:39:39,400: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:39:39,400: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:39:39,400: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:39:42,998: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:39:42,998: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:39:42,998: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:39:42,998: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:39:42,998: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:34,300: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 20:40:34,503: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 20:40:34,540: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 20:40:34,549: INFO : wt: Catalog display result:CATALOG
+2020-05-19 20:40:35,857: INFO : wt: WomenMenubar display result:True
+2020-05-19 20:40:40,963: INFO : wt: Tops option display result:True
+2020-05-19 20:40:40,978: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 20:40:42,257: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 20:40:42,286: INFO : drtab: Dress found on the page
+2020-05-19 20:40:42,286: INFO : drtab: Dress found on the page
+2020-05-19 20:40:42,580: INFO : drtab: Hovering over the dress item
+2020-05-19 20:40:42,580: INFO : drtab: Hovering over the dress item
+2020-05-19 20:40:42,580: INFO : drtab: Hovering over the dress item
+2020-05-19 20:40:42,692: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:40:42,692: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:40:42,692: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:40:42,692: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:40:46,182: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:46,182: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:46,182: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:46,182: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:46,182: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:40:46,231: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 20:43:01,372: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 20:43:01,498: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 20:43:01,535: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 20:43:01,544: INFO : wt: Catalog display result:CATALOG
+2020-05-19 20:43:02,906: INFO : wt: WomenMenubar display result:True
+2020-05-19 20:43:08,028: INFO : wt: Tops option display result:True
+2020-05-19 20:43:08,043: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 20:43:09,382: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 20:43:09,429: INFO : drtab: Dress found on the page
+2020-05-19 20:43:09,429: INFO : drtab: Dress found on the page
+2020-05-19 20:43:09,747: INFO : drtab: Hovering over the dress item
+2020-05-19 20:43:09,747: INFO : drtab: Hovering over the dress item
+2020-05-19 20:43:09,747: INFO : drtab: Hovering over the dress item
+2020-05-19 20:43:10,131: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:43:10,131: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:43:10,131: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:43:10,131: INFO : drtab: Dress added to shopping cart
+2020-05-19 20:43:13,920: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:43:13,920: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:43:13,920: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:43:13,920: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:43:13,920: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 20:43:14,057: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 21:29:02,027: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 21:29:02,117: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 21:29:02,156: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 21:29:08,969: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 21:29:10,223: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 21:29:10,275: INFO : drtab: Dress found on the page
+2020-05-19 21:29:10,275: INFO : drtab: Dress found on the page
+2020-05-19 21:29:10,567: INFO : drtab: Hovering over the dress item
+2020-05-19 21:29:10,567: INFO : drtab: Hovering over the dress item
+2020-05-19 21:29:10,567: INFO : drtab: Hovering over the dress item
+2020-05-19 21:29:10,659: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:29:10,659: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:29:10,659: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:29:10,659: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:29:14,226: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:29:14,226: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:29:14,226: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:29:14,226: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:29:14,226: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:29:14,287: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 21:33:07,039: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 21:33:07,110: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 21:33:07,140: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 21:33:13,567: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 21:33:14,626: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 21:33:14,652: INFO : drtab: Dress found on the page
+2020-05-19 21:33:14,652: INFO : drtab: Dress found on the page
+2020-05-19 21:33:14,937: INFO : drtab: Hovering over the dress item
+2020-05-19 21:33:14,937: INFO : drtab: Hovering over the dress item
+2020-05-19 21:33:14,937: INFO : drtab: Hovering over the dress item
+2020-05-19 21:33:15,036: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:33:15,036: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:33:15,036: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:33:15,036: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:33:18,876: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:33:18,876: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:33:18,876: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:33:18,876: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:33:18,876: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:33:18,938: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 21:37:01,627: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 21:37:01,721: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 21:37:01,753: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 21:37:03,523: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 21:37:03,554: INFO : drtab: Dress found on the page
+2020-05-19 21:37:03,554: INFO : drtab: Dress found on the page
+2020-05-19 21:37:03,850: INFO : drtab: Hovering over the dress item
+2020-05-19 21:37:03,850: INFO : drtab: Hovering over the dress item
+2020-05-19 21:37:03,850: INFO : drtab: Hovering over the dress item
+2020-05-19 21:37:03,953: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:37:03,953: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:37:03,953: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:37:03,953: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:37:07,626: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:37:07,626: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:37:07,626: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:37:07,626: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:37:07,626: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:37:07,672: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:37:07,672: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:37:07,672: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:37:07,672: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:37:07,672: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:37:07,683: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 21:41:56,620: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 21:41:56,703: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 21:41:56,735: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 21:41:58,437: INFO : wt: WomenMenubar display result:True
+2020-05-19 21:42:03,532: INFO : wt: Tops option display result:True
+2020-05-19 21:42:03,550: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 21:42:04,759: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 21:42:04,785: INFO : drtab: Dress found on the page
+2020-05-19 21:42:04,785: INFO : drtab: Dress found on the page
+2020-05-19 21:42:05,083: INFO : drtab: Hovering over the dress item
+2020-05-19 21:42:05,083: INFO : drtab: Hovering over the dress item
+2020-05-19 21:42:05,083: INFO : drtab: Hovering over the dress item
+2020-05-19 21:42:05,179: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:42:05,179: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:42:05,179: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:42:05,179: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:42:08,622: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:42:08,622: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:42:08,622: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:42:08,622: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:42:08,622: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:42:08,655: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:42:08,655: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:42:08,655: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:42:08,655: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:42:08,655: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:42:08,667: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-19 21:44:37,748: INFO : wt: Checking the small size shirt checkbox
+2020-05-19 21:44:37,842: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-19 21:44:37,873: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-19 21:44:37,888: INFO : wt: Catalog display result:CATALOG
+2020-05-19 21:44:39,554: INFO : wt: WomenMenubar display result:True
+2020-05-19 21:44:44,670: INFO : wt: Tops option display result:True
+2020-05-19 21:44:44,689: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-19 21:44:45,980: INFO : drtab: Clicking on the Dresses tab
+2020-05-19 21:44:46,035: INFO : drtab: Dress found on the page
+2020-05-19 21:44:46,035: INFO : drtab: Dress found on the page
+2020-05-19 21:44:46,336: INFO : drtab: Hovering over the dress item
+2020-05-19 21:44:46,336: INFO : drtab: Hovering over the dress item
+2020-05-19 21:44:46,336: INFO : drtab: Hovering over the dress item
+2020-05-19 21:44:46,468: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:44:46,468: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:44:46,468: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:44:46,468: INFO : drtab: Dress added to shopping cart
+2020-05-19 21:44:50,000: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:44:50,000: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:44:50,000: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:44:50,000: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:44:50,000: INFO : drtab: Dress checked out from shopping cart
+2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
+2020-05-19 21:44:50,042: INFO : test_dressestab: Dresses Tab Test Execution completed
