@@ -29,6 +29,9 @@ class Testpracticesite(BaseClass):
         mainscripttestcaselogs = self.scriptlogging()
         mainscripttestcaselogs.info("Dresses Tab Test Execution completed")
 
+    print("All test cases completed")
+    print("Done for the day")
+
     #def test_dressestab(self):
 
 
