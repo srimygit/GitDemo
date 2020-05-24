@@ -32,6 +32,7 @@ class Testpracticesite(BaseClass):
     print("All test cases completed")
     print("Done for the day")
     print("Goodbye Srinath Prabhakar")
+    print("Do you want to start again?")
 
     #def test_dressestab(self):
 
