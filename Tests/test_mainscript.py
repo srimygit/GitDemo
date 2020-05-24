@@ -31,7 +31,7 @@ class Testpracticesite(BaseClass):
 
     print("All test cases completed")
     print("Done for the day")
-    print("Goodbye")
+    print("Goodbye Srinath")
 
     #def test_dressestab(self):
 
