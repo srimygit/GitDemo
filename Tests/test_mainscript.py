@@ -34,6 +34,8 @@ class Testpracticesite(BaseClass):
     print("Goodbye Srinath Prabhakar")
     print("Do you want to start again?")
     print("Yes I do")
+    
+    print("New Changes in Practice Automation project")
 
     #def test_dressestab(self):
 

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="197af187-e27b-4064-a23a-9c95f06f577b" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="197af187-e27b-4064-a23a-9c95f06f577b" name="Default Changelist" comment="">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Tests/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/logs.log" afterDir="false" />
+>>>>>>> aa6b8d62b3ef40b07c0d3b1bd151e2dd22510962
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 692ff64409129d3c931c6eb3aa3186a90b294543
+      <change beforePath="$PROJECT_DIR$/Tests/test_mainscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_mainscript.py" afterDir="false" />
+    </list>
+>>>>>>> 145835dd7555556a20499a6e3b9d30a0cd32eb35
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bSyAXkH2Meq6wbwrNGMBoYdkmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
