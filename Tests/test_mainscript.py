@@ -33,6 +33,7 @@ class Testpracticesite(BaseClass):
     print("Done for the day")
     print("Goodbye Srinath Prabhakar")
     print("Do you want to start again?")
+    print("Yes I do")
 
     #def test_dressestab(self):
 
