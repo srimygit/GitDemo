@@ -968,3 +968,31 @@
 2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
 2020-05-19 21:44:50,032: INFO : drtab: Shopping cost is:$28.00
 2020-05-19 21:44:50,042: INFO : test_dressestab: Dresses Tab Test Execution completed
+2020-05-24 08:52:34,348: INFO : wt: Checking the small size shirt checkbox
+2020-05-24 08:52:34,549: INFO : wt: After checking the checkbox, continuing with the test case
+2020-05-24 08:52:34,606: INFO : wt: Catalog section found. Execute next set of statements
+2020-05-24 08:52:34,616: INFO : wt: Catalog display result:CATALOG
+2020-05-24 08:52:36,084: INFO : wt: WomenMenubar display result:True
+2020-05-24 08:52:41,195: INFO : wt: Tops option display result:True
+2020-05-24 08:52:41,195: INFO : test_womentab: Women Tab Test Execution completed
+2020-05-24 08:52:42,589: INFO : drtab: Clicking on the Dresses tab
+2020-05-24 08:52:42,631: INFO : drtab: Dress found on the page
+2020-05-24 08:52:42,631: INFO : drtab: Dress found on the page
+2020-05-24 08:52:42,931: INFO : drtab: Hovering over the dress item
+2020-05-24 08:52:42,931: INFO : drtab: Hovering over the dress item
+2020-05-24 08:52:42,931: INFO : drtab: Hovering over the dress item
+2020-05-24 08:52:43,101: INFO : drtab: Dress added to shopping cart
+2020-05-24 08:52:43,101: INFO : drtab: Dress added to shopping cart
+2020-05-24 08:52:43,101: INFO : drtab: Dress added to shopping cart
+2020-05-24 08:52:43,101: INFO : drtab: Dress added to shopping cart
+2020-05-24 08:52:46,718: INFO : drtab: Dress checked out from shopping cart
+2020-05-24 08:52:46,718: INFO : drtab: Dress checked out from shopping cart
+2020-05-24 08:52:46,718: INFO : drtab: Dress checked out from shopping cart
+2020-05-24 08:52:46,718: INFO : drtab: Dress checked out from shopping cart
+2020-05-24 08:52:46,718: INFO : drtab: Dress checked out from shopping cart
+2020-05-24 08:52:46,778: INFO : drtab: Shopping cost is:$28.00
+2020-05-24 08:52:46,778: INFO : drtab: Shopping cost is:$28.00
+2020-05-24 08:52:46,778: INFO : drtab: Shopping cost is:$28.00
+2020-05-24 08:52:46,778: INFO : drtab: Shopping cost is:$28.00
+2020-05-24 08:52:46,778: INFO : drtab: Shopping cost is:$28.00
+2020-05-24 08:52:46,794: INFO : test_dressestab: Dresses Tab Test Execution completed
