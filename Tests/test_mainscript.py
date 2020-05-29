@@ -29,6 +29,9 @@ class Testpracticesite(BaseClass):
         mainscripttestcaselogs = self.scriptlogging()
         mainscripttestcaselogs.info("Dresses Tab Test Execution completed")
 
+    def test_developbranch1(self):
+        print("This is the develop branch")
+
     print("All test cases completed")
     print("Done for the day")
     print("Goodbye Srinath Prabhakar")
@@ -36,6 +39,7 @@ class Testpracticesite(BaseClass):
     print("Yes I do")
     
     print("New Changes in Practice Automation project")
+
 
     #def test_dressestab(self):
 
